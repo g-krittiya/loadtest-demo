@@ -100,6 +100,10 @@ Add → Listener → View Results Tree
 * **Throughput** → Requests per second
 * **Error Rate** → Percentage of failed requests
 
+📎 See real example and interpretation:
+👉 [Example Results](example-results.md)
+
+
 ---
 
 ## 🔥 Experiment
